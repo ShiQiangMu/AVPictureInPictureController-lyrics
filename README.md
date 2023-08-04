@@ -1,0 +1,2 @@
+# AVPictureInPictureController-lyrics
+使用AVPictureInPictureController实现画中画桌面歌词显示，
