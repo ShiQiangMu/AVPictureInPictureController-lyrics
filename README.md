@@ -3,7 +3,8 @@
 
 
 视频效果：
-https://github.com/ShiQiangMu/AVPictureInPictureController-lyrics/assets/18362981/baf736c0-6f57-4070-9f74-30898c4b794c
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/18362981/258372193-baf736c0-6f57-4070-9f74-30898c4b794c.mp4
 
 使用AVPictureInPictureController实现画中画桌面歌词显示，
 
