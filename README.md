@@ -1,15 +1,6 @@
 # AVPictureInPictureController-lyrics
 AVPictureInPictureController实现画中画桌面歌词显示，
 
-
-视频效果：
-
-
-
-https://github.com/ShiQiangMu/AVPictureInPictureController-lyrics/assets/18362981/1517a401-9595-456c-b6bf-467a98d29d9d
-
-
-
 使用AVPictureInPictureController实现画中画桌面歌词显示，
 
 1.隐藏不需要的播放、快进快退按钮；
@@ -21,3 +12,17 @@ https://github.com/ShiQiangMu/AVPictureInPictureController-lyrics/assets/1836298
 OC 的代码，有视频素材，可以提供相关思路及技术支持，需要请联系邮箱952472674@qq.com。
 
 简书地址：https://www.jianshu.com/p/b723f98c266a?v=1691137178228
+
+视频效果：
+
+
+
+https://github.com/ShiQiangMu/AVPictureInPictureController-lyrics/assets/18362981/1517a401-9595-456c-b6bf-467a98d29d9d
+
+
+
+
+![output(compress-video-online com)](https://github.com/ShiQiangMu/AVPictureInPictureController-lyrics/assets/18362981/93584918-d4b9-4b0c-9354-7d934e18567c)
+
+
+
